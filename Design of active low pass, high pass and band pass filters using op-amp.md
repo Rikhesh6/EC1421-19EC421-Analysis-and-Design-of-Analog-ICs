@@ -96,16 +96,16 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                 Ri = Rf 
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
-## LOW_PASS
+## LOW-PASS
 <img width="1431" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a3caa95-6669-47e7-b1e9-63b098261031" />
-## HIGH_PASS
+## HIGH-PASS
 <img width="1308" height="1600" alt="image" src="https://github.com/user-attachments/assets/598fa431-2063-4387-a28b-da8086c9fb1f" />
 
-## BAND_PASS
+## BAND-PASS
 <img width="1523" height="1600" alt="image" src="https://github.com/user-attachments/assets/484f718a-357d-4a8a-b0e1-b1baee76e01f" />
 
 ## GRAPH:
-## LOW_PASS
+## LOW-PASS
 <img width="1073" height="1408" alt="image" src="https://github.com/user-attachments/assets/cbbc6b7c-8c0d-4868-bb72-1c9abb0dd73c" />
 
 ## HIGH-PASS
